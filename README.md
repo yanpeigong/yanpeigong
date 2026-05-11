@@ -42,6 +42,7 @@ I am interested in building efficient and practical AI systems, especially aroun
 If you are interested in collaboration, feel free to reach out.
 
 - GitHub: [@yanpeigong](https://github.com/yanpeigong)
+- Emali: 2023211640@stu.hit.edu.cn
 
 ---
 
