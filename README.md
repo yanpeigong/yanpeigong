@@ -1,21 +1,20 @@
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="profile illustration" />
+  <img align="right" width="35%" src="https://octodex.github.com/images/dinotocat.png" alt="dinotocat" />
 </div>
 
 # Yanpei Gong
 
-**Undergraduate Student @ Harbin Institute of Technology (HIT)**  
-**Research Assistant @ Tsinghua SIGS**
+**Undergraduate @ HIT** &nbsp;|&nbsp; **Research Assistant @ Tsinghua SIGS**
 
-I am interested in building efficient and practical AI systems, especially around **AI agents**, **multimodal understanding**, and **research-oriented applications**.
+I build efficient and practical AI systems — **AI agents**, **multimodal understanding**, **research-oriented applications**.
 
-> "Growth is a collective act. In the echo of others, we find our own voice."
+> *"Growth is a collective act. In the echo of others, we find our own voice."*
 
 ## About
 
-- I am currently an undergraduate student at **HIT**.
-- I have completed research internships across **THU**, **CUHK**, and **CASIA**.
-- My current work at **Tsinghua SIGS** focuses on **AI agents**.
+- Currently an undergraduate student at **HIT**
+- Completed research internships across **THU**, **CUHK**, and **CASIA**
+- Current work at **Tsinghua SIGS** focuses on **AI agents**
 
 ## Research Interests
 
@@ -42,7 +41,7 @@ I am interested in building efficient and practical AI systems, especially aroun
 If you are interested in collaboration, feel free to reach out.
 
 - GitHub: [@yanpeigong](https://github.com/yanpeigong)
-- Emali: 2023211640@stu.hit.edu.cn
+- Email: 2023211640@stu.hit.edu.cn
 
 ---
 
