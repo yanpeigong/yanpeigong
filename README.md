@@ -1,5 +1,5 @@
 <div>
-  <img align="right" width="35%" src="https://octodex.github.com/images/dinotocat.png" alt="dinotocat" />
+  <img align="right" width="35%" src="assets/dinotocat.png" alt="dinotocat" />
 </div>
 
 # Yanpei Gong
