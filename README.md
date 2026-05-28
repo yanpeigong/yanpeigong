@@ -13,7 +13,7 @@ I build efficient and practical AI systems — **AI agents**, **multimodal under
 ## About
 
 - Currently an undergraduate student at **HIT**
-- Completed research internships across **THU**, **CUHK**, and **CASIA**
+- Completed research internships across **THU** and **CASIA**
 - Current work at **Tsinghua SIGS** focuses on **AI agents**
 
 ## Research Interests
