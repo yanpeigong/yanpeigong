@@ -7,6 +7,7 @@
 **Undergraduate @ HIT** &nbsp;|&nbsp; **Research Assistant @ Tsinghua SIGS**
 
 I build efficient and practical AI systems — **AI agents**, **multimodal understanding**, **research-oriented applications**.
+I also am actively seeking PhD/graduate program opportunities, please feel free to contact me via email or WeChat: gyp_null if you are interested.
 
 > *"Growth is a collective act. In the echo of others, we find our own voice."*
 
@@ -18,9 +19,9 @@ I build efficient and practical AI systems — **AI agents**, **multimodal under
 
 ## Research Interests
 
-- AI Agents
-- Open-domain Video Understanding and Retrieval
-- Fine-grained Visual Understanding
+- Agentic AI
+- Computer Vision
+- Representation Learning
 
 ## Skills
 
