@@ -4,7 +4,7 @@
 
 # Yanpei Gong
 
-I am currently a fourth-year undergraduate student at Harbin Institute of Technology (HIT) and an incoming master's student at Zhejiang University (ZJU). My primary interest lies in building more efficient AI systems.
+I am currently a fourth-year undergraduate student at Harbin Institute of Technology (HIT). I will join [ZIP Lab](https://ziplab.co/) at Zhejiang University (ZJU) as a master's student, co-advised by Prof. [Bohan Zhuang](https://bohanzhuang.github.io/) and Prof. [Zijian Guo](https://zijguo.github.io/index.html). My primary interest lies in building more efficient AI systems.
 
 I am also actively seeking industry research opportunities. Please feel free to contact me via email or WeChat: gyp_null if you are interested.
 
