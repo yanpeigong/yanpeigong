@@ -4,24 +4,11 @@
 
 # Yanpei Gong
 
-**Undergraduate @ HIT** &nbsp;|&nbsp; **Research Assistant @ Tsinghua SIGS**
+I am currently a fourth-year undergraduate student at Harbin Institute of Technology (HIT) and an incoming master's student at Zhejiang University (ZJU). My primary interest lies in building more efficient AI systems.
 
-I build efficient and practical AI systems — **AI agents**, **multimodal understanding**, **research-oriented applications**.
-I am also actively seeking PhD/graduate program opportunities, please feel free to contact me via email or WeChat: gyp_null if you are interested.
+I am also actively seeking industry research opportunities. Please feel free to contact me via email or WeChat: gyp_null if you are interested.
 
 > *"Growth is a collective act. In the echo of others, we find our own voice."*
-
-## About
-
-- Currently an undergraduate student at **HIT**
-- Completed research internships across **THU** and **CASIA**
-- Current work at **Tsinghua SIGS** focuses on **AI agents**
-
-## Research Interests
-
-- Agentic AI
-- Computer Vision
-- Representation Learning
 
 ## Skills
 
